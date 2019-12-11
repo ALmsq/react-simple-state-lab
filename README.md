@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Let's jump right into working with state. For this lab, we are going to render a
+Let's jump right into working with state. For this lab, we are goin to render a
 matrix, or grid, of squares. Each square will have only a background color. When
 clicked, the square will change colors.
 
